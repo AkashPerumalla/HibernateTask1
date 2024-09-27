@@ -91,7 +91,7 @@ public class StudentMain {
 			
 		} while (check);
 		
-		
+		scanner.close();
 
 	}
 
